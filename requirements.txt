@@ -1,0 +1,8 @@
+# Librerías externas necesarias
+colorama>=0.4.6
+
+# Opcionales según uso avanzado
+# Si planeas usar requests, psutil, o YARA, puedes agregarlas:
+requests>=2.31.0
+psutil>=5.9.5
+yara-python>=4.3.0
